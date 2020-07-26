@@ -382,7 +382,7 @@ namespace SameThings
 				Dictionary<GameObject, ReferenceHub>.ValueCollection.Enumerator enumerator = default(Dictionary<GameObject, ReferenceHub>.ValueCollection.Enumerator);
 				yield return Timing.WaitForSeconds(1f);
 			}
-			yield break;
+			
 		}
 
 		// Token: 0x06000016 RID: 22 RVA: 0x0000277C File Offset: 0x0000097C
